@@ -1,0 +1,122 @@
+id,estate,ukuran,target,periode
+1,Melamor,Diameter 1 X 5 Mtr,0,Pembelian Tahap 1
+2,Sedadung,Diameter 1 X 5 Mtr,0,Pembelian Tahap 1
+3,Tugang,Diameter 1 X 5 Mtr,0,Pembelian Tahap 1
+4,Mulau,Diameter 1 X 5 Mtr,47,Pembelian Tahap 1
+5,Ngaring,Diameter 1 X 5 Mtr,0,Pembelian Tahap 1
+6,Melamor,Diameter 1 X 6 Mtr,16,Pembelian Tahap 1
+7,Sedadung,Diameter 1 X 6 Mtr,8,Pembelian Tahap 1
+8,Tugang,Diameter 1 X 6 Mtr,52,Pembelian Tahap 1
+9,Mulau,Diameter 1 X 6 Mtr,2,Pembelian Tahap 1
+10,Ngaring,Diameter 1 X 6 Mtr,0,Pembelian Tahap 1
+11,Melamor,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 1
+12,Sedadung,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 1
+13,Tugang,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 1
+14,Mulau,Diameter 1.5 X 5 Mtr,1,Pembelian Tahap 1
+15,Ngaring,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 1
+16,Melamor,Diameter 1.5 X 6 Mtr,2,Pembelian Tahap 1
+17,Sedadung,Diameter 1.5 X 6 Mtr,3,Pembelian Tahap 1
+18,Tugang,Diameter 1.5 X 6 Mtr,1,Pembelian Tahap 1
+19,Mulau,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 1
+20,Ngaring,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 1
+21,Melamor,Diameter 2 X 6 Mtr,1,Pembelian Tahap 1
+22,Sedadung,Diameter 2 X 6 Mtr,5,Pembelian Tahap 1
+23,Tugang,Diameter 2 X 6 Mtr,0,Pembelian Tahap 1
+24,Mulau,Diameter 2 X 6 Mtr,4,Pembelian Tahap 1
+25,Ngaring,Diameter 2 X 6 Mtr,0,Pembelian Tahap 1
+26,Melamor,Diameter 3 X 6 Mtr,0,Pembelian Tahap 1
+27,Sedadung,Diameter 3 X 6 Mtr,0,Pembelian Tahap 1
+28,Tugang,Diameter 3 X 6 Mtr,2,Pembelian Tahap 1
+29,Mulau,Diameter 3 X 6 Mtr,1,Pembelian Tahap 1
+30,Ngaring,Diameter 3 X 6 Mtr,0,Pembelian Tahap 1
+31,Melamor,Diameter 1 X 5 Mtr,0,Pembelian Tahap 2
+32,Sedadung,Diameter 1 X 5 Mtr,0,Pembelian Tahap 2
+33,Tugang,Diameter 1 X 5 Mtr,0,Pembelian Tahap 2
+34,Mulau,Diameter 1 X 5 Mtr,46,Pembelian Tahap 2
+35,Ngaring,Diameter 1 X 5 Mtr,0,Pembelian Tahap 2
+36,Melamor,Diameter 1 X 6 Mtr,16,Pembelian Tahap 2
+37,Sedadung,Diameter 1 X 6 Mtr,6,Pembelian Tahap 2
+38,Tugang,Diameter 1 X 6 Mtr,52,Pembelian Tahap 2
+39,Mulau,Diameter 1 X 6 Mtr,1,Pembelian Tahap 2
+40,Ngaring,Diameter 1 X 6 Mtr,0,Pembelian Tahap 2
+41,Melamor,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 2
+42,Sedadung,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 2
+43,Tugang,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 2
+44,Mulau,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 2
+45,Ngaring,Diameter 1.5 X 5 Mtr,0,Pembelian Tahap 2
+46,Melamor,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 2
+47,Sedadung,Diameter 1.5 X 6 Mtr,2,Pembelian Tahap 2
+48,Tugang,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 2
+49,Mulau,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 2
+50,Ngaring,Diameter 1.5 X 6 Mtr,0,Pembelian Tahap 2
+51,Melamor,Diameter 2 X 6 Mtr,0,Pembelian Tahap 2
+52,Sedadung,Diameter 2 X 6 Mtr,4,Pembelian Tahap 2
+53,Tugang,Diameter 2 X 6 Mtr,0,Pembelian Tahap 2
+54,Mulau,Diameter 2 X 6 Mtr,4,Pembelian Tahap 2
+55,Ngaring,Diameter 2 X 6 Mtr,0,Pembelian Tahap 2
+56,Melamor,Diameter 3 X 6 Mtr,0,Pembelian Tahap 2
+57,Sedadung,Diameter 3 X 6 Mtr,0,Pembelian Tahap 2
+58,Tugang,Diameter 3 X 6 Mtr,2,Pembelian Tahap 2
+59,Mulau,Diameter 3 X 6 Mtr,0,Pembelian Tahap 2
+60,Ngaring,Diameter 3 X 6 Mtr,0,Pembelian Tahap 2
+61,Melamor,Diameter 0.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+62,Melamor,Diameter 0.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+63,Melamor,Diameter 0.5 X 8 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+64,Melamor,Diameter 1 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+65,Melamor,Diameter 1 X 6 Mtr,38,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+66,Melamor,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+67,Melamor,Diameter 1.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+68,Melamor,Diameter 2 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+69,Melamor,Diameter 3 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+70,Melamor,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+71,Sedadung,Diameter 0.5 X 5 Mtr,5,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+72,Sedadung,Diameter 0.5 X 6 Mtr,67,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+73,Sedadung,Diameter 0.5 X 8 Mtr,1,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+74,Sedadung,Diameter 1 X 5 Mtr,2,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+75,Sedadung,Diameter 1 X 6 Mtr,26,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+76,Sedadung,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+77,Sedadung,Diameter 1.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+78,Sedadung,Diameter 2 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+79,Sedadung,Diameter 3 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+80,Sedadung,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+81,Tugang,Diameter 0.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+82,Tugang,Diameter 0.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+83,Tugang,Diameter 0.5 X 8 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+84,Tugang,Diameter 1 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+85,Tugang,Diameter 1 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+86,Tugang,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+87,Tugang,Diameter 1.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+88,Tugang,Diameter 2 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+89,Tugang,Diameter 3 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+90,Tugang,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+91,Mulau,Diameter 0.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+92,Mulau,Diameter 0.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+93,Mulau,Diameter 0.5 X 8 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+94,Mulau,Diameter 1 X 5 Mtr,134,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+95,Mulau,Diameter 1 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+96,Mulau,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+97,Mulau,Diameter 1.5 X 6 Mtr,9,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+98,Mulau,Diameter 2 X 6 Mtr,4,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+99,Mulau,Diameter 3 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+100,Mulau,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+101,Ngaring,Diameter 0.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+102,Ngaring,Diameter 0.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+103,Ngaring,Diameter 0.5 X 8 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+104,Ngaring,Diameter 1 X 5 Mtr,54,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+105,Ngaring,Diameter 1 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+106,Ngaring,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+107,Ngaring,Diameter 1.5 X 6 Mtr,53,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+108,Ngaring,Diameter 2 X 6 Mtr,28,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+109,Ngaring,Diameter 3 X 6 Mtr,4,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+110,Ngaring,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+111,Infra,Diameter 0.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+112,Infra,Diameter 0.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+113,Infra,Diameter 0.5 X 8 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+114,Infra,Diameter 1 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+115,Infra,Diameter 1 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+116,Infra,Diameter 1.5 X 5 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+117,Infra,Diameter 1.5 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+118,Infra,Diameter 2 X 6 Mtr,15,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+119,Infra,Diameter 3 X 6 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+120,Infra,Diameter 7 X 10 Mtr,0,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1)
+121,Ngaring,Diameter 7 X 10 Mtr,2,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 2)

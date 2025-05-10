@@ -1,0 +1,44 @@
+id,parameter,kelompok
+1,Land Clearing,Persiapan Lahan dan Tanam
+2,Pancang Tanam,Persiapan Lahan dan Tanam
+3,Tanam,Persiapan Lahan dan Tanam
+4,Penomoran & Penandaan Baris,Persiapan Lahan dan Tanam
+5,LCC,Persiapan Lahan dan Tanam
+6,Pertumbuhan Tanaman,Pertumbuhan Tanaman
+7,Inventarisasi Tanaman,Perawatan dan Pengendalian Gulma
+8,Konsolidasi Tanaman,Perawatan dan Pengendalian Gulma
+9,Penyisipan,Perawatan dan Pengendalian Gulma
+10,Piringan,Perawatan dan Pengendalian Gulma
+11,Jalan Pasar Pikul,Perawatan dan Pengendalian Gulma
+12,Penyemprotan Gulma,Perawatan dan Pengendalian Gulma
+13,Pengendalian Tanaman Perambat,Perawatan dan Pengendalian Gulma
+14,Vegetasi Penutup Tanah,Perawatan dan Pengendalian Gulma
+15,Konservasi Tanah,"Perawatan parit, jalan dan konservasi"
+16,Aplikasi Pupuk,Pemupukan
+17,Aplikasi Jankos,Pemupukan
+18,Defisiensi Nitrogen,Pemupukan
+19,Defisiensi Phospat,Pemupukan
+20,Defisiensi Kalium,Pemupukan
+21,Defisiensi Magnesium,Pemupukan
+22,Defisiensi Boron,Pemupukan
+23,Defisiensi Tembaga,Pemupukan
+24,Defisiensi Zink,Pemupukan
+25,Defisiensi Besi,Pemupukan
+26,Tikus,Hama dan Penyakit
+27,Ulat Kantong,Hama dan Penyakit
+28,Ulat Api,Hama dan Penyakit
+29,Kumbang Tanduk,Hama dan Penyakit
+30,Penyakit Tajuk,Hama dan Penyakit
+31,Penyakit Ganoderma,Hama dan Penyakit
+32,Kastrasi,Persiapan Panen
+33,Sanitasi,Persiapan Panen
+34,Panen,Persiapan Panen
+35,Brondolan,Persiapan Panen
+36,Pruning,Persiapan Panen
+37,Rumpukan Pelepah Panen Pruning,Persiapan Panen
+38,TPH,Persiapan Panen
+39,Titi Panen,Persiapan Panen
+40,Erosi,"Perawatan parit, jalan dan konservasi"
+41,Drainase,"Perawatan parit, jalan dan konservasi"
+42,Kondisi Jalan,"Perawatan parit, jalan dan konservasi"
+43,Kondisi Jembatan Gorong - Gorong,"Perawatan parit, jalan dan konservasi"

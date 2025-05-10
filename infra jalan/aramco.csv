@@ -1,0 +1,423 @@
+id,tgl_rakit,tgl_pasang,bulan,tahun,no_po,ukuran,jumlah,satuan,lokasi,tahun_tanam,estate,divisi,status,status2,keterangan,periode,ukuran2,bln_name,x,y
+1,2025-03-03,2025-03-03,March,2025,,Diameter 3 X 6 Mtr,1,Unit,L02,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,3 X 6,Mar,111.085663,0.499303
+2,2024-02-12,2024-02-12,February,2024,,Diameter 1 X 6 Mtr,1,Unit,F30,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.17206,0.48227
+3,2024-06-18,2024-06-18,June,2024,,Diameter 1 X 6 Mtr,1,Unit,F30,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.17058,0.48029
+4,2024-03-19,2024-03-19,March,2024,,Diameter 1 X 6 Mtr,1,Unit,F31,2021.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.16153,0.48756
+5,2024-07-03,2024-07-03,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F31,2022.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.16349,0.48817
+6,2024-07-03,2024-07-03,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F31,2024.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.16508,0.4872
+7,2024-07-26,2024-07-26,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F31,2020.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.16238,0.48782
+8,2023-08-11,2023-08-11,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F32,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.15399,0.48724
+9,2023-08-11,2023-08-11,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F32,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.15952,0.48626
+10,2024-02-14,2024-02-14,February,2024,,Diameter 1 X 6 Mtr,1,Unit,F32,2022.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.15726,0.48593
+11,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F33,2009.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.15039,0.48718
+12,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F33,2009.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.15358,0.4894
+13,2023-09-30,2023-09-30,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F34,2009.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 6,Sep,111.14726,0.48626
+14,2023-09-15,2023-09-15,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G01,2010.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.1791,0.49544
+15,2024-04-04,2024-04-04,April,2024,,Diameter 1 X 6 Mtr,1,Unit,G01,2021.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.17861,0.49404
+16,2024-07-04,2024-07-04,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G01,2020.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.17896,0.49474
+17,2024-04-04,2024-04-04,April,2024,,Diameter 1 X 6 Mtr,1,Unit,G02,2021.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.17659,0.49345
+18,2024-04-03,2024-04-03,April,2024,,Diameter 1 X 6 Mtr,1,Unit,G02,2021.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.17531,0.50042
+19,2023-09-16,2023-09-16,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G03,2009.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16991,0.49633
+20,2024-01-24,2024-01-24,January,2024,,Diameter 1 X 6 Mtr,1,Unit,G03,2022.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Jan,111.16832,0.49703
+21,2024-03-01,2024-03-01,March,2024,,Diameter 1 X 6 Mtr,1,Unit,G03,2022.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.1723,0.49978
+22,2024-02-21,2024-02-21,February,2024,,Diameter 1 X 6 Mtr,1,Unit,G03,2021.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Feb,111.16839,0.49718
+23,2024-02-20,2024-02-20,February,2024,,Diameter 1 X 6 Mtr,1,Unit,G05,2022.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.17263,0.50403
+24,2024-03-04,2024-03-04,March,2024,,Diameter 1 X 6 Mtr,1,Unit,G09,2022.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.16346,0.50522
+25,2024-07-24,2024-07-24,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G09,2021.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.16326,0.50553
+26,2023-09-07,2023-09-07,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G11,2009.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17146,0.51502
+27,2023-09-07,2023-09-07,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G11,2009.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16944,0.51756
+28,2023-09-06,2023-09-06,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G12,2010.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16006,0.51248
+29,2023-09-15,2023-09-15,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G12,2010.0,Tugang,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.15857,0.50847
+30,2023-09-05,2023-09-04,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G13,2010.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17945,0.5235
+31,2024-06-13,2024-06-13,June,2024,,Diameter 1 X 6 Mtr,1,Unit,G13,2021.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.16231,0.51058
+32,2024-06-14,2024-06-14,June,2024,,Diameter 1 X 6 Mtr,1,Unit,G13,2021.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.16072,0.5102
+33,2024-11-28,2025-01-10,January,2025,,Diameter 1 X 6 Mtr,1,Unit,B26,2021.0,Melamor,3,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-01-31,1 X 6,Jan,111.2762833,0.4808833
+34,2024-10-25,2024-12-03,December,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E37,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-01-31,0.5 X 6,Dec,111.18634,0.5327
+35,2024-10-25,2025-02-17,February,2025,,Diameter 1 X 6 Mtr,1,Unit,D22,2009.0,Sedadung,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 6,Feb,111.203132,0.459491
+36,2024-10-22,2025-02-26,February,2025,,Diameter 0.5 X 6 Mtr,1,Unit,E01,2008.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,0.5 X 6,Feb,111.210007,0.468593
+37,2024-10-22,2025-02-26,February,2025,,Diameter 0.5 X 6 Mtr,1,Unit,E01,2008.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,0.5 X 6,Feb,111.210667,0.46683
+38,2024-10-22,2025-03-03,March,2025,,Diameter 0.5 X 6 Mtr,1,Unit,C09,2022.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,0.5 X 6,Mar,111.217387,0.49004
+39,2024-10-22,2025-03-04,March,2025,,Diameter 0.5 X 6 Mtr,1,Unit,C02,2008.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,0.5 X 6,Mar,111.220802,0.463786
+40,2024-10-22,2025-03-04,March,2024,,Diameter 1 X 6 Mtr,1,Unit,C23,2022.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 6,Mar,111.226786,0.502228
+41,2024-12-07,2024-12-07,December,2024,,Diameter 1 X 5 Mtr,1,Unit,K08,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.075311,0.532477
+42,2024-12-11,2024-12-11,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L19,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.079482,0.513423
+43,2024-12-12,2024-12-12,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.077737,0.51213
+44,2024-12-12,2024-12-12,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L19,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.078699,0.513301
+45,2024-12-17,2024-12-17,December,2024,,Diameter 3 X 6 Mtr,1,Unit,Jalan PEMDA Div 1,,Ngaring,1,PEMDA,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,3 X 6,Dec,111.09469,0.544017
+46,2024-12-18,2024-12-18,December,2024,,Diameter 1 X 5 Mtr,1,Unit,Jalan PEMDA Div 1,,Ngaring,2,PEMDA,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.095698,0.543738
+47,2024-12-20,2024-12-20,December,2024,,Diameter 1.5 X 6 Mtr,1,Unit,L09,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Dec,111.086475,0.506502
+48,2024-12-20,2024-12-20,December,2024,,Diameter 2 X 6 Mtr,1,Unit,L05,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Dec,111.086448,0.502157
+49,2024-12-20,2024-12-20,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L05,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.084878,0.502118
+50,2024-12-20,2024-12-20,December,2024,,Diameter 2 X 6 Mtr,1,Unit,L05,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Dec,111.0859,0.500037
+51,2024-12-21,2024-12-21,December,2024,,Diameter 1.5 X 6 Mtr,1,Unit,L14,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Dec,111.088203,0.513203
+52,2024-12-21,2024-12-21,December,2024,,Diameter 1.5 X 6 Mtr,1,Unit,L18,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Dec,111.084415,0.514249
+53,2024-12-21,2024-12-21,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L05,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.086678,0.504872
+54,2024-12-21,2024-12-21,December,2024,,Diameter 1.5 X 6 Mtr,1,Unit,L10,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Dec,111.086717,0.51039
+55,2024-12-21,2024-12-21,December,2024,,Diameter 1.5 X 6 Mtr,1,Unit,L14,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Dec,111.089742,0.5132
+56,2024-12-24,2024-12-24,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L14,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.086192,0.513187
+57,2024-12-24,2024-12-24,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L07,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.079921,0.504918
+58,2024-12-24,2024-12-24,December,2024,,Diameter 1 X 5 Mtr,1,Unit,L07,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.080283,0.503931
+59,2024-12-27,2024-12-27,December,2024,,Diameter 1 X 5 Mtr,1,Unit,K22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.068339,0.546565
+60,2024-12-28,2024-12-28,December,2024,,Diameter 1 X 5 Mtr,1,Unit,K16,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.066246,0.540621
+61,2024-12-28,2024-12-28,December,2024,,Diameter 2 X 6 Mtr,1,Unit,K22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Dec,111.066242,0.545207
+62,2024-12-28,2024-12-28,December,2024,,Diameter 1 X 5 Mtr,1,Unit,K28,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Dec,111.066271,0.550519
+63,2025-01-05,2025-01-05,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K12,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.06529,0.53573
+64,2025-01-05,2025-01-05,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K17,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.064243,0.53824
+65,2025-01-05,2025-01-05,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K28,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.071686,0.551064
+66,2025-01-06,2025-01-06,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K10,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.068047,0.535463
+67,2025-01-06,2025-01-06,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K12,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.064396,0.537906
+68,2025-01-07,2025-01-07,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K03,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.069025,0.529941
+69,2025-01-07,2025-01-07,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K07,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.07478,0.532697
+70,2025-01-07,2025-01-07,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K12,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.065418,0.537395
+71,2025-01-08,2025-01-08,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K07,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.070659,0.532776
+72,2025-01-08,2025-01-08,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K15,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.075415,0.540814
+73,2025-01-11,2025-01-11,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K04,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.062379,0.527105
+74,2025-01-11,2025-01-11,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K05,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.059702,0.529911
+75,2025-01-12,2025-01-12,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L06,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.084729,0.502258
+76,2025-01-12,2025-01-12,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L11,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.078037,0.508213
+77,2025-01-12,2025-01-12,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L11,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.078019,0.50853
+78,2025-01-14,2025-01-14,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.078173,0.512512
+79,2025-01-15,2025-01-15,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.078673,0.513235
+80,2025-01-16,2025-01-16,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L11,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.080364,0.509061
+81,2025-01-17,2025-01-17,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.080094,0.513005
+82,2025-01-17,2025-01-17,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.081296,0.513219
+83,2025-01-17,2025-01-17,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.081349,0.512143
+84,2025-02-22,2025-02-22,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L10,,Ngaring,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.084615,0.508738
+85,2025-02-27,2025-02-27,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L23,,Ngaring,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.096265,0.518625
+86,2025-02-27,2025-02-27,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L23,,Ngaring,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.095987,0.5188
+87,2025-02-28,2025-02-28,February,2025,,Diameter 1 X 5 Mtr,1,Unit,L25,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Feb,111.089892,0.520388
+88,2025-02-28,2025-02-28,February,2025,,Diameter 1 X 5 Mtr,1,Unit,L24,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Feb,111.093367,0.519857
+89,2023-09-13,2023-09-13,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F27,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17585,0.4887
+90,2025-01-09,2025-01-09,January,2025,,Diameter 1 X 5 Mtr,1,Unit,K03,,Ngaring,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.069901,0.529895
+91,2025-01-18,2025-01-18,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L07,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.08101,0.503503
+92,2025-01-18,2025-01-18,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L08,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.080715,0.506363
+93,2025-01-20,2025-01-20,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L08,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.080997,0.507619
+94,2025-01-20,2025-01-20,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.08362,0.511557
+95,2025-01-20,2025-01-20,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.090043,0.51877
+96,2025-01-20,2025-01-20,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L08,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.081178,0.507643
+97,2025-01-21,2025-01-21,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.091898,0.518776
+98,2025-01-21,2025-01-21,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L25,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.091213,0.518952
+99,2025-01-22,2025-01-22,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L19,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.082448,0.514476
+100,2025-01-22,2025-01-22,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L19,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.08408,0.516021
+101,2025-01-22,2025-01-22,January,2025,,Diameter 2 X 6 Mtr,1,Unit,L13,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Jan,111.076885,0.510491
+102,2025-01-24,2025-01-24,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L21,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.080715,0.516073
+103,2025-01-24,2025-01-24,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L21,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.081025,0.516122
+104,2025-01-24,2025-01-24,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.084516,0.516629
+105,2025-01-24,2025-01-24,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L21,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.083191,0.518003
+106,2025-01-25,2025-01-25,January,2025,,Diameter 1 X 5 Mtr,1,Unit,L11,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Jan,111.078908,0.507595
+107,2025-01-25,2025-01-25,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L22,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.084402,0.518371
+108,2025-01-25,2025-01-25,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L11,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.079086,0.510486
+109,2025-01-27,2025-01-27,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L09,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.084651,0.507641
+110,2025-01-27,2025-01-27,January,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L06,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Jan,111.084542,0.504845
+111,2025-02-14,2025-02-14,February,2025,,Diameter 1 X 5 Mtr,1,Unit,M05,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Feb,111.117587,0.474342
+112,2025-02-14,2025-02-14,February,2025,,Diameter 1 X 5 Mtr,1,Unit,M07,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Feb,111.11265,0.471564
+113,2025-02-14,2025-02-14,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,M07,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.120167,0.471177
+114,2025-02-15,2025-02-15,February,2025,,Diameter 2 X 6 Mtr,1,Unit,M05,,Ngaring,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Feb,111.116437,0.474343
+115,2025-02-16,2025-02-16,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,Jalan PEMDA Div 1,,Ngaring,3,PEMDA,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.127213,0.483747
+116,2025-02-16,2025-02-16,February,2025,,Diameter 1 X 5 Mtr,1,Unit,Jalan PEMDA Div 1,,Ngaring,3,PEMDA,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1 X 5,Feb,111.129146,0.484286
+117,2025-02-17,2025-02-17,February,2025,,Diameter 2 X 6 Mtr,1,Unit,M37,,Ngaring,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,2 X 6,Feb,111.126883,0.489401
+118,2023-08-12,2023-08-22,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H45,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+119,2025-02-22,2025-02-22,February,2025,,Diameter 1.5 X 6 Mtr,1,Unit,L10,,Ngaring,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-03-31,1.5 X 6,Feb,111.084387,0.508695
+120,2024-02-13,2024-02-16,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A44,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.28784,0.49655
+121,2024-02-07,2024-02-09,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A46,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.288254,0.497735
+122,2024-02-07,2024-02-09,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A46,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.28874,0.49852
+123,2024-02-13,2024-02-16,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A56,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.28921,0.51409
+124,2024-02-07,2024-02-09,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A57,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.29102,0.516093
+125,2024-02-07,2024-02-09,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A57,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.29075,0.51675
+126,2024-02-05,2024-02-07,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A58,2022.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.290791,0.519063
+127,2023-08-31,2023-09-01,September,2023,,Diameter 1 X 6 Mtr,1,Unit,B07,2009.0,Melamor,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.2415,0.47169
+128,2024-02-07,2024-02-09,February,2024,,Diameter 1 X 6 Mtr,1,Unit,B09,2009.0,Melamor,4,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.240025,0.473399
+129,2023-09-02,2023-09-04,September,2023,,Diameter 1.5 X 6 Mtr,1,Unit,B16,2022.0,Melamor,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1.5 X 6,Sep,111.2521,0.4663961111111111
+130,2023-07-31,2023-08-01,August,2023,,Diameter 1 X 6 Mtr,1,Unit,B21,2009.0,Melamor,3,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.25689333333334,0.4577983333333333
+131,2023-08-03,2023-08-04,August,2023,,Diameter 1 X 6 Mtr,1,Unit,B22,2020.0,Melamor,4,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.25591,0.46079
+132,2023-08-29,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,B22,2009.0,Melamor,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.26220472222222,0.454885
+133,2024-01-25,2024-01-27,January,2024,,Diameter 1 X 6 Mtr,1,Unit,B26,2022.0,Melamor,3,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Jan,111.270616666667,0.473966666666667
+134,2023-07-23,2023-08-05,August,2023,,Diameter 1.5 X 6 Mtr,1,Unit,C02,2008.0,Sedadung,1,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1.5 X 6,Aug,111.21456388888888,0.4709011111111111
+135,2023-07-18,2023-07-26,July,2023,,Diameter 1 X 6 Mtr,1,Unit,C06,2008.0,Sedadung,1,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Jul,111.21464194444444,0.4750119444444444
+136,2023-07-21,2023-08-30,August,2023,,Diameter 1 X 6 Mtr,1,Unit,C07,2008.0,Sedadung,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.21231,0.4834930555555555
+137,2024-01-12,2024-01-24,January,2024,,Diameter 1.5 X 6 Mtr,1,Unit,C07,2008.0,Sedadung,1,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1.5 X 6,Jan,111.214306,0.482125
+138,2024-01-16,2024-02-05,February,2024,,Diameter 1 X 6 Mtr,1,Unit,C07,2008.0,Sedadung,1,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.214606,0.483047
+139,2024-10-07,2024-10-09,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C10,2008.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-10-31,0.5 X 6,Oct,111.215606,0.49354
+140,2023-07-17,2023-09-04,September,2023,,Diameter 1 X 6 Mtr,1,Unit,C15,2008.0,Sedadung,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.22585194444444,0.4776530555555555
+141,2024-01-17,2024-06-03,June,2024,,Diameter 1 X 6 Mtr,1,Unit,C17,2020.0,Sedadung,2,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.22453,0.48298
+142,2023-07-17,2023-07-26,July,2023,,Diameter 1 X 6 Mtr,1,Unit,C20,2008.0,Sedadung,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Jul,111.22155,0.4945
+143,2024-10-07,2024-10-14,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C20,2022.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-10-31,0.5 X 6,Oct,111.2210238888889,0.4947861111111111
+144,2023-07-21,2023-09-04,September,2023,,Diameter 1.5 X 6 Mtr,1,Unit,C29,2009.0,Sedadung,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1.5 X 6,Sep,111.23505,0.4757166666666667
+145,2023-07-19,2023-08-09,August,2023,,Diameter 1 X 6 Mtr,1,Unit,D01,2011.0,Sedadung,4,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.18789694444445,0.4524969444444444
+146,2023-07-20,2023-09-06,September,2023,,Diameter 1 X 6 Mtr,1,Unit,D01,2011.0,Sedadung,4,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.18820611111111,0.4528088888888889
+147,2023-07-23,2023-09-01,September,2023,,Diameter 2 X 6 Mtr,1,Unit,D01,2011.0,Sedadung,4,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,2 X 6,Sep,111.19075694444444,0.4529519444444445
+148,2023-07-24,2023-09-05,September,2023,,Diameter 2 X 6 Mtr,1,Unit,D01,2011.0,Sedadung,4,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,2 X 6,Sep,111.19107194444445,0.4534019444444445
+149,2023-07-25,2023-09-13,September,2023,,Diameter 2 X 6 Mtr,1,Unit,D02,2009.0,Sedadung,4,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,2 X 6,Sep,111.19097888888888,0.4534688888888889
+150,2024-01-18,2024-02-27,February,2024,,Diameter 1 X 6 Mtr,1,Unit,E10,2021.0,Sedadung,5,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Feb,111.20048194444443,0.4964380555555555
+151,2024-01-18,2024-03-08,March,2024,,Diameter 2 X 6 Mtr,1,Unit,E10,2021.0,Sedadung,5,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,2 X 6,Mar,111.20182305555556,0.4889419444444444
+152,2024-01-18,2024-02-26,February,2024,,Diameter 2 X 6 Mtr,1,Unit,E11,2021.0,Sedadung,5,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,2 X 6,Feb,111.21372,0.5015
+153,2023-07-18,2023-08-16,August,2023,,Diameter 1 X 6 Mtr,1,Unit,E12,2020.0,Sedadung,5,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.20476,0.49451
+154,2023-07-22,2023-08-04,August,2023,,Diameter 1.5 X 6 Mtr,1,Unit,E15,2020.0,Sedadung,5,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1.5 X 6,Aug,111.21015,0.50305
+155,2024-01-17,2024-04-09,April,2024,,Diameter 1 X 6 Mtr,1,Unit,E20,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.2012338888889,0.5244930555555556
+156,2024-01-17,2024-04-17,April,2024,,Diameter 1 X 6 Mtr,1,Unit,E23,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.20278305555556,0.5316550000000001
+157,2024-01-17,2024-04-17,April,2024,,Diameter 1.5 X 6 Mtr,1,Unit,E23,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1.5 X 6,Apr,111.20420611111112,0.5310188888888889
+158,2023-07-21,2023-07-28,July,2023,,Diameter 2 X 6 Mtr,1,Unit,E24,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,2 X 6,Jul,111.19447666666667,0.5454488888888889
+159,2023-07-22,2023-07-28,July,2023,,Diameter 2 X 6 Mtr,1,Unit,E24,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,2 X 6,Jul,111.19564194444445,0.5443761111111111
+160,2024-01-17,2024-04-02,April,2024,,Diameter 1 X 6 Mtr,1,Unit,E28,2021.0,Sedadung,6,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.18234305555556,0.5120719444444445
+161,2024-01-17,2024-04-02,April,2024,,Diameter 2 X 6 Mtr,1,Unit,E29,2021.0,Sedadung,6,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,2 X 6,Apr,111.1828838888889,0.5077138888888889
+162,2023-07-22,2023-08-14,August,2023,,Diameter 1 X 6 Mtr,1,Unit,E36,2021.0,Sedadung,6,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.191725,0.5247511111111112
+163,2023-08-11,2023-08-11,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F01,2010.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.18245,0.46576
+164,2023-08-11,2023-08-11,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F01,2010.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.18131,0.45393
+165,2023-08-11,2023-08-11,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F01,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.18163,0.45142
+166,2023-08-13,2023-08-13,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F02,2010.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.18311,0.45679
+167,2023-08-13,2023-08-13,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F02,2010.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17938,0.45651
+168,2023-10-07,2023-10-07,October,2023,,Diameter 3 X 6 Mtr,1,Unit,F02,2022.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,3 X 6,Oct,111.18337,0.45674
+169,2023-08-14,2023-08-14,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17591,0.45975
+170,2023-08-14,2023-08-14,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17743,0.45943
+171,2023-08-14,2023-08-14,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17648,0.45886
+172,2023-08-20,2023-08-20,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17698,0.45727
+173,2023-08-20,2023-08-20,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17588,0.45733
+174,2023-08-20,2023-08-20,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.17496,0.45762
+175,2024-06-18,2024-06-18,June,2024,,Diameter 1 X 6 Mtr,1,Unit,F03,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.17655,0.47522
+176,2024-09-19,2024-09-19,September,2024,,Diameter 3 X 6 Mtr,1,Unit,F03,2022.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-09-30,3 X 6,Sep,111.1729,0.45721
+177,2023-09-04,2023-09-01,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F06,2008.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17531,0.46766
+178,2024-07-26,2024-07-26,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F07,2021.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.16745,0.46334
+179,2024-07-24,2024-07-24,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F07,2020.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.16877,0.4603
+180,2023-09-01,2023-09-01,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F09,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17793,0.46614
+181,2023-09-01,2023-09-01,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F09,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.18242,0.46607
+182,2023-09-05,2023-09-04,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F10,2009.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.1706,0.4642
+183,2024-07-26,2024-07-26,July,2024,,Diameter 1 X 6 Mtr,1,Unit,F10,2013.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.1712,0.46437
+184,2024-09-07,2024-09-07,September,2024,,Diameter 3 X 6 Mtr,1,Unit,F10,2013.0,Tugang,1,Plasma,Terpasang,Pembelian Tahap 2,2024-09-30,3 X 6,Sep,111.17077,0.46609
+185,2024-06-15,2024-06-15,June,2024,,Diameter 1 X 6 Mtr,1,Unit,F12,2020.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.17894,0.46689
+186,2024-02-12,2024-02-12,February,2024,,Diameter 1 X 6 Mtr,1,Unit,F13,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.1711,0.46868
+187,2023-08-10,2023-08-10,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F14,2009.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.16021,0.46938
+188,2024-03-21,2024-03-21,March,2024,,Diameter 1 X 6 Mtr,1,Unit,F14,2009.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Mar,111.16355,0.46799
+189,2024-03-21,2024-03-21,March,2024,,Diameter 1 X 6 Mtr,1,Unit,F14,2009.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Mar,111.15974,0.4678
+190,2024-03-28,2024-03-28,March,2024,,Diameter 1 X 6 Mtr,1,Unit,F14,2013.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Mar,111.15745,0.47022
+191,2024-02-12,2024-02-12,February,2024,,Diameter 1 X 6 Mtr,1,Unit,F19,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.17116,0.47799
+192,2024-06-28,2024-06-28,June,2024,,Diameter 1 X 6 Mtr,1,Unit,F19,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jun,111.1694,0.47418
+193,2023-09-11,2023-09-11,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F21,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16517,0.47596
+194,2023-08-09,2023-08-09,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.16217,0.4786
+195,2023-08-09,2023-08-09,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.16343,0.4779
+196,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.16141,0.47812
+197,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.2623,0.4765
+198,2023-09-13,2023-09-13,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.15649,0.4806
+199,2023-09-13,2023-09-13,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.15481,0.44114
+200,2023-09-15,2023-09-15,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F22,2010.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16047,0.48163
+201,2024-04-04,2024-04-04,April,2024,,Diameter 1 X 6 Mtr,1,Unit,F22,2021.0,Tugang,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.1621,0.47609
+202,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F24,2011.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.14748,0.48012
+203,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F24,2011.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.14666,0.47548
+204,2023-08-31,2023-08-31,August,2023,,Diameter 1 X 6 Mtr,1,Unit,F24,2011.0,Tugang,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.14846,0.47806
+205,2023-09-04,2023-09-01,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F26,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.18475,0.47805
+206,2024-06-09,2024-06-09,June,2024,,Diameter 1 X 6 Mtr,1,Unit,F26,2021.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 2,2024-06-30,1 X 6,Jun,111.1852,0.48689
+207,2023-09-04,2023-09-04,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F27,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17616,0.48813
+208,2023-08-12,2023-08-14,August,2023,,Diameter 1 X 6 Mtr,1,Unit,A16,2020.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 6,Aug,111.26041666666669,0.5117999999999999
+209,2023-08-18,2023-08-19,August,2023,,Diameter 1.5 X 6 Mtr,1,Unit,A16,2021.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1.5 X 6,Aug,111.25996666666668,0.5084500000000001
+210,2023-09-13,2023-09-15,September,2023,,Diameter 2 X 6 Mtr,1,Unit,A21,2009.0,Melamor,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,2 X 6,Sep,111.26339888888889,0.4776230555555555
+211,2023-08-15,2023-08-24,August,2023,,Diameter 1 X 6 Mtr,1,Unit,A22,2021.0,Melamor,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.27068694444444,0.4900888888888889
+212,2024-02-19,2024-02-20,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A22,2021.0,Melamor,2,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.270366132854,0.490223078061619
+213,2023-08-23,2023-08-25,August,2023,,Diameter 1 X 6 Mtr,1,Unit,A28,2011.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.26086666666669,0.52205
+214,2023-09-05,2023-09-08,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A29,2012.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.2717,0.5305333333333333
+215,2023-09-07,2023-09-09,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A29,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.2715,0.529
+216,2024-01-23,2024-01-25,January,2024,,Diameter 1 X 6 Mtr,1,Unit,A31,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Jan,111.265046,0.540854
+217,2024-01-24,2024-01-26,January,2024,,Diameter 1 X 6 Mtr,1,Unit,A31,2021.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Jan,111.264083,0.542983
+218,2024-01-24,2024-01-26,January,2024,,Diameter 1 X 6 Mtr,1,Unit,A31,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Jan,111.262297,0.539055
+219,2023-08-25,2023-08-28,August,2023,,Diameter 1 X 6 Mtr,1,Unit,A32,2011.0,Melamor,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.2746,0.484238
+220,2023-09-07,2023-09-09,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A34,2020.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.2858,0.5276166666666666
+221,2023-09-13,2023-09-15,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A34,2020.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.28138333333334,0.5296166666666667
+222,2023-09-18,2023-09-19,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A34,2020.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.28716666666666,0.5293
+223,2023-09-03,2023-09-05,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A36,2020.0,Melamor,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.275,0.5205
+224,2024-02-24,2024-02-26,February,2024,,Diameter 1 X 6 Mtr,1,Unit,A37,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Feb,111.28377588,0.5281174
+225,2024-03-19,2024-03-22,March,2024,,Diameter 1 X 6 Mtr,1,Unit,A37,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Mar,111.283646,0.529961
+226,2023-09-03,2023-09-05,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A38,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.27703333333334,0.53805
+227,2023-09-20,2023-09-21,September,2023,,Diameter 1 X 6 Mtr,1,Unit,A38,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 6,Sep,111.28113333333332,0.5406333333333334
+228,2024-01-10,2024-01-12,January,2024,,Diameter 1 X 6 Mtr,1,Unit,A38,2020.0,Melamor,1,Plasma,Terpasang,Pembelian Tahap 2,2024-01-31,1 X 6,Jan,111.274757,0.545217
+229,2023-09-06,2023-09-06,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F27,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.1724,0.48673
+230,2023-09-13,2023-09-13,September,2023,,Diameter 1 X 6 Mtr,1,Unit,F27,2009.0,Tugang,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.17357,0.48613
+231,2024-07-03,2024-07-03,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G13,2020.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.18217,0.52491
+232,2024-07-03,2024-07-03,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G13,2020.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.18247,0.52457
+233,2023-09-05,2023-09-04,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G16,2009.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.16113,0.51921
+234,2024-07-04,2024-07-04,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G16,2020.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.15985,0.51758
+235,2024-07-04,2024-07-04,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G16,2020.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.15848,0.52045
+236,2024-07-23,2024-07-23,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G17,2021.0,Tugang,4,Plasma,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.17174,0.53551
+237,2024-07-24,2024-07-24,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G17,2021.0,Tugang,4,Plasma,Terpasang,Pembelian Tahap 2,2024-08-31,1 X 6,Jul,111.17364,0.5357
+238,2024-07-03,2024-07-03,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G17,2020.0,Tugang,4,Plasma,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.17364,0.53693
+239,2024-07-01,2024-07-01,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G19,2021.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.15186,0.52319
+240,2024-02-13,2024-02-13,February,2024,,Diameter 1 X 6 Mtr,1,Unit,G20,2022.0,Tugang,4,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 6,Feb,111.17464,0.54227
+241,2024-07-04,2024-07-04,July,2024,,Diameter 1 X 6 Mtr,1,Unit,G22,2020.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.1558,0.52888
+242,2023-09-09,2023-09-09,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G23,2010.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.15304,0.53612
+243,2023-09-09,2023-09-09,September,2023,,Diameter 1 X 6 Mtr,1,Unit,G28,2010.0,Tugang,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.14644,0.53005
+244,2024-04-02,2024-04-02,April,2024,,Diameter 1 X 6 Mtr,1,Unit,H01,2021.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.14082,0.49389
+245,2024-04-03,2024-04-03,April,2024,,Diameter 1 X 6 Mtr,1,Unit,H01,2021.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.14134,0.49528
+246,2024-04-01,2024-04-01,April,2024,,Diameter 1 X 6 Mtr,1,Unit,H01,2021.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.14195,0.49373
+247,2024-04-16,2024-04-16,April,2024,,Diameter 1 X 6 Mtr,1,Unit,H01,2021.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Apr,111.1415,0.49615
+248,2024-03-13,2024-03-12,March,2024,,Diameter 1 X 6 Mtr,1,Unit,H02,2022.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.14314,0.50138
+249,2024-03-13,2024-03-12,March,2024,,Diameter 1 X 6 Mtr,1,Unit,H02,2022.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.14063,0.50147
+250,2023-09-30,2023-09-30,September,2023,,Diameter 1 X 6 Mtr,1,Unit,H03,2009.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 6,Sep,11.144831,0.50221
+251,2024-03-14,2024-03-14,March,2024,,Diameter 1 X 6 Mtr,1,Unit,H03,2021.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 6,Mar,111.1451,0.50156
+252,2024-03-29,2024-03-29,March,2024,,Diameter 1 X 6 Mtr,1,Unit,H07,2009.0,Tugang,5,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 6,Mar,111.15114,0.50946
+253,2023-09-14,2023-09-14,September,2023,,Diameter 1 X 6 Mtr,1,Unit,H09,2009.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,111.14145,0.50968
+254,2023-09-27,2023-09-27,September,2023,,Diameter 1.5 X 6 Mtr,1,Unit,H09,2009.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1.5 X 6,Sep,111.14256,0.50905
+255,2023-09-27,2023-09-27,September,2023,,Diameter 1 X 6 Mtr,1,Unit,H09,2023.0,Tugang,5,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 6,Sep,111.14145,0.50939
+256,2023-08-30,2023-08-30,August,2023,,Diameter 1 X 6 Mtr,1,Unit,H11,2009.0,Tugang,5,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.15273,0.51651
+257,2023-08-24,2023-08-24,August,2023,,Diameter 1 X 6 Mtr,1,Unit,H13,2010.0,Tugang,5,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Aug,111.14998,0.52122
+258,2024-07-18,2024-07-18,July,2024,,Diameter 1 X 6 Mtr,1,Unit,H14,2021.0,Tugang,5,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.14893,0.52231
+259,2024-07-18,2024-07-18,July,2024,,Diameter 1 X 6 Mtr,1,Unit,H15,2020.0,Tugang,5,Inti,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.14429,0.52192
+260,2023-08-25,2023-09-01,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H17,2009.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+261,2023-08-15,2023-08-26,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H18,2009.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.1332,0.5194500000000001
+262,2023-08-16,2023-08-29,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H18,2009.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.13061666666664,0.5182000000000001
+263,2023-09-02,2023-09-05,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H21,2009.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.13728333333334,0.5267166666666667
+264,2023-09-02,2023-09-07,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H21,2009.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.13866666666668,0.5275000000000001
+265,2023-09-19,2024-02-21,February,2024,,Diameter 2 X 6 Mtr,1,Unit,H23,2020.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2024-03-31,2 X 6,Feb,111.14977,0.535988
+266,2024-01-22,2024-02-21,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H24,2010.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Feb,111.133476,0.528673
+267,2024-02-22,2024-04-04,April,2024,,Diameter 1 X 5 Mtr,1,Unit,H31,2020.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.14075,0.538723
+268,2024-02-22,2024-04-04,April,2024,,Diameter 1 X 5 Mtr,1,Unit,H31,2010.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.141567,0.53663
+269,2023-09-09,2023-09-12,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H32,2010.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.136905,0.54086
+270,2024-02-21,2024-04-03,April,2024,,Diameter 1 X 5 Mtr,1,Unit,H32,2020.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.136905,0.54086
+271,2023-09-09,2023-09-12,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H33,2010.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+272,2023-09-08,2023-09-13,September,2023,,Diameter 1 X 5 Mtr,1,Unit,H33,2010.0,Mulau,1,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+273,2023-08-19,2023-08-24,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H38,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.1082,0.5280833333333333
+274,2024-01-21,2024-02-15,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H38,2021.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.111399,0.526357
+275,2024-01-20,2024-02-13,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H39,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.105827,0.530748
+276,2024-01-22,2024-03-08,March,2024,,Diameter 1 X 5 Mtr,1,Unit,H40,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.104962,0.532282
+277,2024-01-23,2024-03-12,March,2024,,Diameter 1 X 5 Mtr,1,Unit,H40,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.106537,0.535145
+278,2024-01-22,2024-02-19,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H42,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.107207,0.53623
+279,2024-01-21,2024-02-19,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H43,2022.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.106178,0.539913
+280,2024-01-23,2024-03-13,March,2024,,Diameter 1 X 5 Mtr,1,Unit,H45,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.10271,0.530913
+281,2023-08-03,2023-08-21,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H46,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.10334194444444,0.5314361111111111
+282,2023-08-12,2023-08-22,August,2023,,Diameter 1 X 5 Mtr,1,Unit,H46,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.09975,0.5337833333333333
+283,2024-01-20,2024-02-12,February,2024,,Diameter 1 X 5 Mtr,1,Unit,H46,2022.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.098113,0.534188
+284,2023-08-03,2023-08-08,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I01,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,111.1325547222222,0.5487569444444444
+285,2023-09-03,2023-09-05,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I01,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.13775,0.5485333333333333
+286,2023-09-05,2023-09-08,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I01,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.1353,0.5489499999999999
+287,2023-09-09,2023-09-20,September,2023,,Diameter 1 X 5 Mtr,1,Unit,J07,2011.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+288,2023-09-05,2023-09-08,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I01,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.13725,0.5485
+289,2023-09-09,2023-09-16,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I01,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.13836666666668,0.55045
+290,2023-09-09,2023-09-18,September,2023,,Diameter 2 X 6 Mtr,1,Unit,I01,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,2 X 6,Sep,,
+291,2024-02-22,2024-04-06,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I01,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.13225,0.552413
+292,2024-02-22,2024-04-06,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I01,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.140948,0.550767
+293,2023-05-15,2023-08-28,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I03,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.12491666666666,0.54
+294,2023-08-15,2023-08-30,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I04,2009.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+295,2023-09-08,2023-09-13,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I05,2009.0,Mulau,2,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+296,2023-08-03,2023-08-18,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I08,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,,
+297,2023-09-13,2023-09-22,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I12,2020.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 5,Sep,,
+298,2023-08-15,2023-08-30,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I13,2012.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.12058333333331,0.5462
+299,2023-08-15,2023-08-31,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I13,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.12503333333332,0.5486166666666666
+300,2023-08-15,2023-08-31,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I13,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.13013333333332,0.5535500000000001
+301,2023-09-13,2023-09-22,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I13,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 5,Sep,111.12988333333332,0.5516166666666668
+302,2024-02-21,2024-04-04,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I13,2021.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.125668,0.547022
+303,2023-09-14,2023-09-25,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I14,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 5,Sep,111.12566805555556,0.5470219444444444
+304,2024-01-20,2024-01-31,January,2024,,Diameter 1 X 5 Mtr,1,Unit,I14,2021.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Jan,111.132267,0.559772
+305,2024-01-20,2024-02-02,February,2024,,Diameter 1 X 5 Mtr,1,Unit,I14,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.13081,0.559365
+306,2024-02-18,2024-03-21,March,2024,,Diameter 2 X 6 Mtr,1,Unit,I14,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,2 X 6,Mar,111.133447,0.559307
+307,2023-08-16,2023-08-19,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I15,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,111.13344694444446,0.5593069444444445
+308,2024-01-23,2024-03-12,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I15,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.126932,0.564898
+309,2023-09-02,2023-09-08,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I16,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.12004444444445,0.5630058333333334
+310,2023-09-08,2023-09-14,September,2023,,Diameter 1 X 6 Mtr,1,Unit,I16,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 6,Sep,,
+311,2023-09-09,2023-09-15,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I16,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+312,2024-01-21,2024-02-15,February,2024,,Diameter 1 X 5 Mtr,1,Unit,I16,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.119778,0.560623
+313,2023-08-03,2023-08-07,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I17,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,,
+314,2023-09-13,2023-09-22,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I17,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 5,Sep,,
+315,2024-02-20,2024-03-26,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I17,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.116837,0.557462
+316,2024-02-20,2024-04-01,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I17,2011.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.11979,0.559213
+317,2024-02-20,2024-04-01,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I17,2022.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.119742,0.553962
+318,2024-02-19,2024-03-25,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I18,2010.0,Mulau,2,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.113535,0.558523
+319,2023-09-19,2023-09-23,September,2023,,Diameter 1 X 6 Mtr,1,Unit,I19,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 6,Sep,111.10641666666666,0.5583333333333333
+320,2023-08-04,2023-08-05,August,2023,,Diameter 1 X 5 Mtr,1,Unit,I20,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,111.10787694444444,0.5620350000000001
+321,2023-09-09,2023-09-19,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I20,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,111.10867,0.5610769444444444
+322,2024-01-24,2024-03-14,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I20,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.107877,0.562035
+323,2024-01-24,2024-03-14,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I20,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.10867,0.561077
+324,2024-03-26,2024-07-01,July,2024,,Diameter 1 X 6 Mtr,1,Unit,I20,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 2,2024-07-31,1 X 6,Jul,111.111343,0.5845
+325,2023-09-09,2023-09-12,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I21,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+326,2023-09-09,2023-09-18,September,2023,,Diameter 1 X 5 Mtr,1,Unit,I21,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+327,2024-02-25,2024-04-24,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I21,2010.0,Mulau,3,Plasma,Terpasang,Pembelian Tahap 2,2024-05-31,1 X 5,Apr,111.109007,0.569588
+328,2024-01-23,2024-03-12,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I22,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.113653,0.56619
+329,2024-01-24,2024-03-13,March,2024,,Diameter 1 X 5 Mtr,1,Unit,I28,2010.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.115642,0.569447
+330,2024-02-25,2024-04-24,April,2024,,Diameter 1 X 5 Mtr,1,Unit,I32,2011.0,Mulau,3,Inti,Terpasang,Pembelian Tahap 2,2024-05-31,1 X 5,Apr,111.115615,0.582622
+331,2023-08-19,2023-08-29,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J04,2020.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,111.13333333333334,0.5688666666666666
+332,2024-02-19,2024-03-23,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J04,2011.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.133975,0.571452
+333,2023-08-19,2023-09-04,September,2023,,Diameter 1 X 5 Mtr,1,Unit,J05,2011.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+334,2023-09-13,2023-09-22,September,2023,,Diameter 1 X 5 Mtr,1,Unit,J06,2021.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 1,2023-10-31,1 X 5,Sep,,
+335,2023-08-19,2023-09-02,September,2023,,Diameter 1 X 5 Mtr,1,Unit,J08,2011.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+336,2024-01-21,2024-02-06,February,2024,,Diameter 1 X 5 Mtr,1,Unit,J08,2021.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 2,2024-02-29,1 X 5,Feb,111.144303,0.57147
+337,2024-01-24,2024-03-20,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J12,2011.0,Mulau,4,Inti,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.149037,0.588867
+338,2023-09-15,2024-02-27,February,2024,,Diameter 3 X 6 Mtr,1,Unit,J23,2021.0,Mulau,5,Inti,Terpasang,Pembelian Tahap 1,2024-03-31,3 X 6,Feb,111.14901,0.58902
+339,2023-08-05,2023-08-22,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J25,2011.0,Mulau,4,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+340,2024-01-24,2024-03-20,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J25,2011.0,Mulau,4,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.150362,0.58816
+341,2023-08-15,2023-08-30,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J27,2011.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+342,2023-09-19,2023-10-04,October,2023,,Diameter 2 X 6 Mtr,1,Unit,J27,2021.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,2 X 6,Oct,,
+343,2024-02-20,2024-03-28,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J27,2011.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.126863,0.59083
+344,2024-01-22,2024-03-04,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J28,2020.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.124685,0.592582
+345,2023-08-15,2023-08-31,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J30,2011.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+346,2024-03-25,2024-05-22,May,2024,,Diameter 2 X 6 Mtr,1,Unit,J30,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-06-30,2 X 6,May,111.146725,0.602788
+347,2023-08-16,2023-08-29,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J31,2011.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Aug,,
+348,2023-09-15,2023-09-23,September,2023,,Diameter 1.5 X 5 Mtr,1,Unit,J33,2012.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,1.5 X 5,Sep,,
+349,2024-02-23,2024-04-16,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J33,2012.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.14696,0.610765
+350,2024-03-25,2024-05-17,May,2024,,Diameter 1 X 5 Mtr,1,Unit,J33,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-05-31,1 X 5,May,111.14396,0.607267
+351,2024-02-19,2024-03-22,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J43,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.132698,0.60617
+352,2024-03-19,2024-03-25,March,2024,,Diameter 2 X 6 Mtr,1,Unit,J44,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,2 X 6,Mar,111.133975,0.608008
+353,2024-03-25,2024-05-16,May,2024,,Diameter 1 X 5 Mtr,1,Unit,J46,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-05-31,1 X 5,May,111.133512,0.615457
+354,2023-09-08,2023-09-14,September,2023,,Diameter 1 X 5 Mtr,1,Unit,J50,2021.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-09-30,1 X 5,Sep,,
+355,2024-01-22,2024-03-05,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J50,2021.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-03-31,1 X 5,Mar,111.12254,0.602156
+356,2024-02-23,2024-04-09,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J50,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.1216,0.601162
+357,2023-08-12,2023-08-19,August,2023,,Diameter 1 X 5 Mtr,1,Unit,J53,2023.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 1,2023-08-31,1 X 5,Aug,111.12778333333333,0.61
+358,2024-02-19,2024-03-26,March,2024,,Diameter 1 X 5 Mtr,1,Unit,J53,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Mar,111.128122,0.608198
+359,2024-02-20,2024-04-01,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J53,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.126212,0.610102
+360,2024-02-21,2024-04-02,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J54,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.12612,0.610508
+361,2024-02-21,2024-04-04,April,2024,,Diameter 2 X 6 Mtr,1,Unit,J54,2023.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,2 X 6,Apr,111.120887,0.611606
+362,2024-02-22,2024-04-06,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J54,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.123781,0.613156
+363,2024-02-24,2024-04-18,April,2024,,Diameter 1 X 5 Mtr,1,Unit,J54,2022.0,Mulau,5,Plasma,Terpasang,Pembelian Tahap 2,2024-04-30,1 X 5,Apr,111.125272,0.61256
+364,2024-01-17,2024-04-30,April,2024,,Diameter 2 X 6 Mtr,1,Unit,Jalan Poros Pakan(Sungai Nyala),,Sedadung,3,Inti,Terpasang,Pembelian Tahap 2,2024-05-31,2 X 6,Apr,111.192629,0.479598
+365,2023-10-09,2023-10-09,October,2023,,Diameter 3 X 6 Mtr,1,Unit,Pemda Seloi,,Ngaring,1,PEMDA,Terpasang,Pembelian Tahap 1,2023-10-31,3 X 6,Oct,111.08598722222222,0.4962447222222222
+366,2024-10-14,2024-10-22,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J04,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+367,2024-10-14,2024-10-22,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J04,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+368,2024-10-16,2024-10-23,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J41,2021.0,Mulau,5,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+369,2024-10-14,2024-10-26,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J01,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+370,2024-10-07,2024-10-12,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,D14,2008.0,Sedadung,4,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Oct,,
+371,2024-10-07,2024-10-14,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E23,2022.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Oct,,
+372,2024-10-22,2024-10-26,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E36,2021.0,Sedadung,6,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Oct,,
+373,2024-10-07,2024-10-15,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E08,2008.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Oct,,
+374,2024-10-22,2024-10-24,October,2024,,Diameter 1 X 6 Mtr,1,Unit,E12,2010.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Oct,,
+375,2024-10-22,2024-10-25,October,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E08,2008.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Oct,,
+376,2024-10-22,2024-10-30,October,2024,,Diameter 1 X 6 Mtr,1,Unit,E12,2022.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Oct,,
+377,2024-10-14,2024-10-26,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J01,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+378,2024-10-14,2024-10-30,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J02,2021.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+379,2024-10-18,2024-10-30,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J02,2012.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+380,2024-10-25,2024-10-31,October,2024,,Diameter 1 X 6 Mtr,1,Unit,A01,2008.0,Melamor,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Oct,,
+381,2024-10-25,2024-11-01,November,2024,,Diameter 1 X 6 Mtr,1,Unit,A07,2022.0,Melamor,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Nov,,
+382,2024-10-22,2024-11-04,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C02,2008.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+383,2024-10-22,2024-11-01,November,2024,,Diameter 1 X 6 Mtr,1,Unit,E12,2022.0,Sedadung,5,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Nov,,
+384,2024-10-22,2024-11-02,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E23,2022.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+385,2024-10-07,2024-11-21,November,2024,,Diameter 1 X 6 Mtr,1,Unit,E23,2011.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Nov,,
+386,2024-10-22,2024-11-24,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E36,2021.0,Sedadung,6,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+387,2024-10-22,2024-11-11,November,2024,,Diameter 1 X 6 Mtr,1,Unit,C25,2022.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Nov,,
+388,2024-10-22,2024-11-09,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C10,2008.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+389,2024-10-22,2024-11-11,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C06,2008.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+390,2024-10-22,2024-11-17,November,2024,,Diameter 0.5 X 8 Mtr,1,Unit,C29,2009.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 8,Nov,,
+391,2024-10-22,2024-11-14,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,D20,2008.0,Sedadung,4,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+392,2024-10-22,2024-11-18,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C24,2022.0,Sedadung,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+393,2024-10-22,2024-11-20,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E20,2013.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,,
+394,2024-10-22,2024-11-22,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E20,2021.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,111.203111,0.524119
+395,2024-10-22,2024-11-24,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,E36,2021.0,Sedadung,6,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,0.5 X 6,Nov,111.189381,0.524945
+396,2024-10-25,2024-11-28,November,2024,,Diameter 1 X 6 Mtr,1,Unit,A22,2022.0,Melamor,2,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 6,Nov,,
+397,2024-10-25,2024-11-25,November,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C26,2023.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,0.5 X 6,Nov,,
+398,2024-10-14,2024-11-08,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J30,2020.0,Mulau,5,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.146957,0.60243
+399,2024-11-16,2024-11-06,November,2024,,Diameter 1 X 5 Mtr,1,Unit,I17,2022.0,Mulau,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.121222,0.55282
+400,2024-10-14,2024-11-09,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J03,2012.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.140725,0.563123
+401,2024-10-17,2024-11-08,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J03,2012.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.14112,0.565782
+402,2024-10-14,2024-11-08,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J30,2020.0,Mulau,5,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.146957,0.60243
+403,2024-10-17,2024-11-13,November,2024,,Diameter 1 X 5 Mtr,1,Unit,H27,2009.0,Mulau,1,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.12496,0.528375
+404,2024-10-12,2024-11-19,November,2024,,Diameter 1 X 5 Mtr,1,Unit,H27,2009.0,Mulau,1,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.127538,0.529672
+405,2024-11-16,2024-11-22,November,2024,,Diameter 1 X 5 Mtr,1,Unit,H27,2009.0,Mulau,1,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.125434,0.531132
+406,2024-10-12,2024-11-23,November,2024,,Diameter 1 X 5 Mtr,1,Unit,H26,2009.0,Mulau,1,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.128294,0.526555
+407,2024-11-16,2024-11-23,November,2024,,Diameter 1 X 5 Mtr,1,Unit,H19,2009.0,Mulau,1,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.127617,0.524997
+408,2023-09-15,2023-09-25,September,2023,,Diameter 2 X 6 Mtr,1,Unit,H45,2013.0,Mulau,1,Plasma,Terpasang,Pembelian Tahap 1,2023-10-31,2 X 6,Sep,,
+409,2024-10-14,2024-10-22,October,2024,,Diameter 1 X 5 Mtr,1,Unit,J04,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-11-30,1 X 5,Oct,,
+410,2024-11-20,2024-11-23,November,2024,,Diameter 1 X 5 Mtr,1,Unit,I18,2010.0,Mulau,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.11359,0.55892
+411,2024-11-20,2024-11-26,November,2024,,Diameter 1 X 5 Mtr,1,Unit,I02,2020.0,Mulau,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.12453,0.543252
+412,2024-11-22,2024-11-23,November,2024,,Diameter 1 X 5 Mtr,1,Unit,I15,2011.0,Mulau,3,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.124235,0.565575
+413,2024-11-23,2024-11-15,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J01,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.138385,0.560812
+414,2024-11-23,2024-11-14,November,2024,,Diameter 1 X 5 Mtr,1,Unit,J01,2011.0,Mulau,4,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 5,Nov,111.14168,0.557444
+415,2024-11-28,2024-12-05,December,2024,,Diameter 1 X 6 Mtr,1,Unit,A36,2020.0,Melamor,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,,
+416,2024-11-28,2024-12-05,December,2024,,Diameter 1 X 6 Mtr,1,Unit,A36,2020.0,Melamor,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,,
+417,2024-11-28,2024-12-12,December,2024,,Diameter 1 X 6 Mtr,1,Unit,A26,2011.0,Melamor,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,,
+418,2024-11-28,2024-12-12,December,2024,,Diameter 1 X 6 Mtr,1,Unit,A01,2022.0,Melamor,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,,
+419,2024-11-28,2024-12-12,December,2024,,Diameter 1 X 6 Mtr,1,Unit,A13,2009.0,Melamor,2,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,,
+420,2024-10-25,2024-12-17,December,2024,,Diameter 0.5 X 6 Mtr,1,Unit,C12,2023.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,0.5 X 6,Dec,111.220314,0.473945
+421,2024-10-25,2024-12-19,December,2024,,Diameter 1 X 6 Mtr,1,Unit,E20,2022.0,Sedadung,6,Plasma,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2024-12-31,1 X 6,Dec,111.199517,0.525519
+422,2024-10-25,2025-01-06,January,2025,,Diameter 0.5 X 6 Mtr,1,Unit,C04,2023.0,Sedadung,1,Inti,Terpasang,Pembelian PO : 1062/PO GUM/VIII-24/19 (PO 1),2025-01-31,0.5 X 6,Jan,111.219901,0.470092

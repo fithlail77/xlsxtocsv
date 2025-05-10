@@ -1,0 +1,19 @@
+id,kelompok_unit,jenis_unit,satuan
+1,Bulldozer,Alat Berat,HM
+2,Bulldozer Mini,Alat Berat,HM
+3,Excavator,Alat Berat,HM
+4,Excavator Mini,Alat Berat,HM
+5,Motor Greader,Alat Berat,HM
+6,Compactor,Alat Berat,HM
+7,Backho Loader,Alat Berat,HM
+8,Forklift,Alat Berat,HM
+9,Wheel Loader,Alat Berat,HM
+10,Crawler,Alat Berat,HM
+11,Wheel Tractor,Alat Berat,HM
+12,BIN System,Kendaraan,KM
+13,Tronton,Kendaraan,KM
+14,Dump Truck,Kendaraan,KM
+15,Damkar,Kendaraan,KM
+16,Mobil,Kendaraan,KM
+17,Genset,Alat Berat,HM
+18,Quick Tractor,Kendaraan,KM
